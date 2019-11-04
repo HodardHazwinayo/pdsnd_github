@@ -149,14 +149,7 @@ def time_stats(df):
     print('For the selected filter, the most common day of the week is: ' +
           str(most_common_day) + '.')
 
-    # display the most common start hour
-    most_common_hour = df['Start Hour'].mode()[0]
-    print('For the selected filter, the most common start hour is: ' +
-          str(most_common_hour) + '.')
-
-    print("\nThis took {} seconds.".format((time.time() - start_time)))
-    print('-'*40)
-
+   
 
 def station_stats(df):
     """Display statistics on the most popular stations and trip."""
