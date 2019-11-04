@@ -8,9 +8,9 @@ Understand *Motivate* bikesharing data in Chicago, New York City and Washington 
 The app provides detailed and raw data to the end user applying filters if the user wishes to
 
 ### Files used
-chicago.csv
-new_york_city.csv
-washington.csv
+* washington.csv
+* new_york_city.csv
+* chicago.csv
 
 ### Credits
 No ispiration or consultation for now.
