@@ -5,7 +5,7 @@
 Understand *Motivate* bikesharing data in Chicago, New York City and Washington DC
 
 ### Description
-The app provides detailed and raw data to the end user applying filters if the user wishes to
+The app provides detailed and raw data to the end user applying filters if the user wishes to do it.
 
 ### Files used
 * washington.csv
