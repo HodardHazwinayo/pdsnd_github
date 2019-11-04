@@ -1,17 +1,15 @@
 ### Date created
-04 November 2019
+Include the date you created this project and README file.
 
 ### Project Title
-Understand *Motivate* bikesharing data in Chicago, New York City and Washington DC
+Replace the Project Title
 
 ### Description
-The app provides detailed and raw data to the end user applying filters if the user wishes to
+Describe what your project is about and what it does
 
 ### Files used
-* washington.csv
-* new_york_city.csv
-* chicago.csv
+Include the files used
 
 ### Credits
-No ispiration or consultation for now.
+It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
